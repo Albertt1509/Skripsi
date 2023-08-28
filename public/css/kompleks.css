@@ -1,0 +1,13 @@
+.barang{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.bawah{
+    justify-content: left;
+    display: flex;
+}
+
+
+

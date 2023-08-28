@@ -1,0 +1,22 @@
+.judul_produk{
+         text-align: center;
+        padding-top: 40px;
+        font-size: 24px;
+      
+}
+.kolom2{
+   color: black;
+    padding-bottom: 20px;
+}
+label{
+  display: inline-block;
+  padding-bottom: 20px;
+}
+.kolom{
+color: black;
+padding-bottom: 20px;
+}
+  .mb-3 label {
+        display: block;
+        margin-bottom: 5px;
+    }
