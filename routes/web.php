@@ -55,10 +55,6 @@ Route::get('/update_produk/{id}',[AdminController::class,'update_produk']);
 
 Route::post('/update_produk_confirm/{id}',[AdminController::class,'update_produk_confirm']);
 
-
-
-
-
 Route::get('/kompleks/{id}',[HomeController::class,'kompleks']);
 
 Route::get('/show_order',[HomeController::class,'show_order']);

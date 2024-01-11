@@ -1,4 +1,3 @@
-
  <section class="ftco-section">
             <div class="container" id="product">
                 <div class="row justify-content-center pb-5">
